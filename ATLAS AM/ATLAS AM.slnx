@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ATLAS AM/ATLAS AM.csproj" />
+  <Project Path="Shared/Shared.csproj" />
+</Solution>

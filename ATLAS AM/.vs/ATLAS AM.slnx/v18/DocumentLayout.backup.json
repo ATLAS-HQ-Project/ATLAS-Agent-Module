@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ezra\\Coding\\ATLAS\\ATLAS-Agent-Module\\ATLAS AM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53540F00-0132-37F9-7689-398FA6A46BBF}|ATLAS AM\\ATLAS AM.csproj|c:\\users\\ezra\\coding\\atlas\\atlas-agent-module\\atlas am\\atlas am\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53540F00-0132-37F9-7689-398FA6A46BBF}|ATLAS AM\\ATLAS AM.csproj|solutionrelative:atlas am\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53540F00-0132-37F9-7689-398FA6A46BBF}|ATLAS AM\\ATLAS AM.csproj|c:\\users\\ezra\\coding\\atlas\\atlas-agent-module\\atlas am\\atlas am\\atlas am.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{53540F00-0132-37F9-7689-398FA6A46BBF}|ATLAS AM\\ATLAS AM.csproj|solutionrelative:atlas am\\atlas am.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22F72E50-B86A-48A6-4252-6FDC98C636E8}|Shared\\Shared.csproj|c:\\users\\ezra\\coding\\atlas\\atlas-agent-module\\atlas am\\shared\\shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{22F72E50-B86A-48A6-4252-6FDC98C636E8}|Shared\\Shared.csproj|solutionrelative:shared\\shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22F72E50-B86A-48A6-4252-6FDC98C636E8}|Shared\\Shared.csproj|c:\\users\\ezra\\coding\\atlas\\atlas-agent-module\\atlas am\\shared\\pipeduplex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22F72E50-B86A-48A6-4252-6FDC98C636E8}|Shared\\Shared.csproj|solutionrelative:shared\\pipeduplex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Shared",
+              "DocumentMoniker": "C:\\Users\\Ezra\\Coding\\ATLAS\\ATLAS-Agent-Module\\ATLAS AM\\Shared\\Shared.csproj",
+              "RelativeDocumentMoniker": "Shared\\Shared.csproj",
+              "ToolTip": "C:\\Users\\Ezra\\Coding\\ATLAS\\ATLAS-Agent-Module\\ATLAS AM\\Shared\\Shared.csproj",
+              "RelativeToolTip": "Shared\\Shared.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-23T19:50:59.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ATLAS AM",
+              "DocumentMoniker": "C:\\Users\\Ezra\\Coding\\ATLAS\\ATLAS-Agent-Module\\ATLAS AM\\ATLAS AM\\ATLAS AM.csproj",
+              "RelativeDocumentMoniker": "ATLAS AM\\ATLAS AM.csproj",
+              "ToolTip": "C:\\Users\\Ezra\\Coding\\ATLAS\\ATLAS-Agent-Module\\ATLAS AM\\ATLAS AM\\ATLAS AM.csproj",
+              "RelativeToolTip": "ATLAS AM\\ATLAS AM.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-23T19:50:56.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PipeDuplex.cs",
+              "DocumentMoniker": "C:\\Users\\Ezra\\Coding\\ATLAS\\ATLAS-Agent-Module\\ATLAS AM\\Shared\\PipeDuplex.cs",
+              "RelativeDocumentMoniker": "Shared\\PipeDuplex.cs",
+              "ToolTip": "C:\\Users\\Ezra\\Coding\\ATLAS\\ATLAS-Agent-Module\\ATLAS AM\\Shared\\PipeDuplex.cs",
+              "RelativeToolTip": "Shared\\PipeDuplex.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T19:42:26.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ezra\\Coding\\ATLAS\\ATLAS-Agent-Module\\ATLAS AM\\ATLAS AM\\Program.cs",
+              "RelativeDocumentMoniker": "ATLAS AM\\Program.cs",
+              "ToolTip": "C:\\Users\\Ezra\\Coding\\ATLAS\\ATLAS-Agent-Module\\ATLAS AM\\ATLAS AM\\Program.cs",
+              "RelativeToolTip": "ATLAS AM\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T19:37:04.621Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
